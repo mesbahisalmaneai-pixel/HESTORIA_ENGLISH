@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947270805706",
+    "project_id": "hestoria-english-app",
+    "storage_bucket": "hestoria-english-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947270805706:android:1a59bf56fd19abcc112c33",
+        "android_client_info": {
+          "package_name": "com.example.hestoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUSPHPTZJsSTa00Oc_plYzLhHgAGXSL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
